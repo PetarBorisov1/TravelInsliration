@@ -1,0 +1,14 @@
+div{
+    width: 80%;
+    text-align: left;
+    
+    padding-top: 3em;
+}
+
+table{
+    background-color: rgba(162, 247, 247, 0.555);
+    border: 1px solid black;
+}
+p{
+    text-align: center;
+}
